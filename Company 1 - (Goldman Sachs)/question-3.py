@@ -1,4 +1,4 @@
-# Given an array of positive numbers, the task is to find the number of possible contiguous subarrays having product less than a given number k.
+# Question 3 - Given an array of positive numbers, the task is to find the number of possible contiguous subarrays having product less than a given number k.
 
 
 # Solution -
