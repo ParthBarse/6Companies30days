@@ -1,4 +1,4 @@
-# Question 7 - Distributing M items in a circle of size N starting from K-th position
+# Question 8 - Distributing M items in a circle of size N starting from K-th position
 
 
 # Solution -
